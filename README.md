@@ -2,6 +2,11 @@
 
 A compiled list of links to public incident/interesting stories related to Kafka. Most recent publications on top.
 
+* [Kafka Migration and Lessons Learned](https://www.honeycomb.io/blog/kafka-migration-lessons-learned/)
+  * date: 08-April-2021
+  * involved: Tired Storage, Migration
+  * impact: lessons learn
+
 * [Kafka Jumbo cluster cannot accept connections](https://phabricator.wikimedia.org/T219842)
   * date: 02-April-2019
   * involved: OOM, Network bandwidth
